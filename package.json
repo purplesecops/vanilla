@@ -74,7 +74,7 @@
         "reselect": "4.0.0",
         "sprintf-js": "1.1.1",
         "stylis": "^4.0.7",
-        "swagger-ui-react": "^3.25.0",
+        "swagger-ui-react": "^5.17.12",
         "tabbable": "3.1.1",
         "tar": ">=4.4.2",
         "tsc-watch": "^4.0.0",
