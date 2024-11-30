@@ -49,7 +49,7 @@
         "numeral": "2.0.6",
         "p-debounce": "1.0.0",
         "path-to-regexp": "3.0.0",
-        "qs": "6.7.0",
+        "qs": "6.7.3",
         "react": "^16.9.0",
         "react-aria-live": "2.0.4",
         "react-autosize-textarea": "^7.0.0",
