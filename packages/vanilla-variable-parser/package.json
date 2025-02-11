@@ -11,7 +11,7 @@
         "@babel/parser": "^7.12.10",
         "@vanilla/utils": "*",
         "fs-extra": "^9.0.1",
-        "globby": "^11.0.1",
+        "globby": "^14.1.0",
         "json-schema": "^0.2.5"
     },
     "devDependencies": {
