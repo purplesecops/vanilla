@@ -77,7 +77,7 @@
         "swagger-ui-react": "^5.17.12",
         "tabbable": "3.1.1",
         "tar": ">=4.4.2",
-        "tsc-watch": "^4.0.0",
+        "tsc-watch": "^7.0.0",
         "typescript-fsa": "^3.0.0",
         "typescript-fsa-reducers": "^1.2.0",
         "validator": "10.8.0",
