@@ -11,7 +11,7 @@
         "@vanilla/eslint-plugin": "*",
         "@typescript-eslint/eslint-plugin": "^4.3.0",
         "@typescript-eslint/parser": "^4.3.0",
-        "eslint": "^7.10.0",
+        "eslint": "^9.0.0",
         "eslint-config-prettier": "^6.5.0",
         "eslint-plugin-import": "^2.17.3",
         "eslint-plugin-jsx-a11y": "^6.2.1",
